@@ -1,16 +1,21 @@
-# The Ionic Super Starter 🎮
+# Unilever Life - Perfect Store Mobile App 🎮
 
-_Note: the Ionic Super Starter requires Ionic CLI 3._
+_Note: the Unilever Life - Perfect Store Mobile App requires Unilver Life- Perfect Store
+ CLI 3._
 
 <img src="super2.png" width="400" />
 
-The Ionic Super Starter is a batteries-included starter project for Ionic apps complete with pre-built pages, providers, and best practices for Ionic development.
 
-The goal of the Super Starter is to get you from zero to app store faster than before, with a set of opinions from the Ionic team around page layout, data/user management, and project structure.
+
+The Unilever Life - Perfect Store is a batteries-included starter project for Unilver Life- Perfect Store apps complete with pre-built pages, providers, and best practices for Unilver Life- Perfect Store development.
+
+
+The goal of the Unilever Life - Perfect Store is to get you from zero to app store faster than before, with a set of opinions from the Unilver Life- Perfect Store team around page layout, data/user management, and project structure.
 
 The way to use this starter is to pick and choose the various page types you want use, and remove the ones you don't. If you want a blank slate, this starter isn't for you (use the `blank` type instead).
 
-One of the big advances in Ionic was moving from a rigid route-based navigation system to a flexible push/pop navigation system modeled off common native SDKs. We've embraced this pattern to provide a set of reusable pages that can be navigated to anywhere in the app. Take a look at the [Settings page](https://github.com/ionic-team/ionic-starter-super/blob/master/src/pages/settings/settings.html#L38) for a cool example of a page navigating to itself to provide a different UI without duplicating code.
+
+One of the big advances in Unilver Life- Perfect Store was moving from a rigid route-based navigation system to a flexible push/pop navigation system modeled off common native SDKs. We've embraced this pattern to provide a set of reusable pages that can be navigated to anywhere in the app. Take a look at the [Settings page](https://github.com/ionic-team/ionic-starter-super/blob/master/src/pages/settings/settings.html#L38) for a cool example of a page navigating to itself to provide a different UI without duplicating code.
 
 ## Table of Contents
 
@@ -21,7 +26,8 @@ One of the big advances in Ionic was moving from a rigid route-based navigation 
 
 ## <a name="getting-started"></a>Getting Started
 
-To test this starter out, install the latest version of the Ionic CLI and run:
+
+To test this starter out, install the latest version of the Unilver Life- Perfect Store CLI and run:
 
 ```bash
 ionic start mySuperApp super
@@ -29,7 +35,7 @@ ionic start mySuperApp super
 
 ## Pages
 
-The Super Starter comes with a variety of ready-made pages. These pages help you assemble common building blocks for your app so you can focus on your unique features and branding.
+The Unilever Life - Perfect Store comes with a variety of ready-made pages. These pages help you assemble common building blocks for your app so you can focus on your unique features and branding.
 
 The app loads with the `FirstRunPage` set to `TutorialPage` as the default. If the user has already gone through this page once, it will be skipped the next time they load the app.
 
@@ -43,7 +49,7 @@ Please read the [Pages](https://github.com/ionic-team/ionic-starter-super/tree/m
 
 ## Providers
 
-The Super Starter comes with some basic implementations of common providers.
+The Unilever Life - Perfect Store comes with some basic implementations of common providers.
 
 ### User
 
@@ -55,7 +61,8 @@ The `Api` provider is a simple CRUD frontend to an API. Simply put the root of y
 
 ## i18n
 
-Ionic Super Starter comes with internationalization (i18n) out of the box with [ngx-translate](https://github.com/ngx-translate/core). This makes it easy to change the text used in the app by modifying only one file. 
+
+Unilver Life- Perfect Store Unilever Life - Perfect Store comes with internationalization (i18n) out of the box with [ngx-translate](https://github.com/ngx-translate/core). This makes it easy to change the text used in the app by modifying only one file. 
 
 ### Adding Languages
 
